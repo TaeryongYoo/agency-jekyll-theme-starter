@@ -13,7 +13,6 @@
 
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
-
 url    : "https://taeryongyoo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
